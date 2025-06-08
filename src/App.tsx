@@ -209,10 +209,10 @@ function App() {
 
             <div className="max-w-[500px] w-full bg-zinc-900 p-3 text-white font-sans rounded-md">
               <div className="pb-3 flex items-center gap-5">
-                <a href="" target="_blank">
+                <a href="https://github.com/gabriellxz/portifolio-gabriel" target="_blank">
                   <img src={github_logo} alt="" className="w-[30px] bg-white rounded-md" />
                 </a>
-                <a href="" target="_blank">
+                <a href="https://gabriel-silva-ashen.vercel.app/" target="_blank">
                   <ArrowTopRightOnSquareIcon className="w-[40px] text-green-700" />
                 </a>
               </div>
