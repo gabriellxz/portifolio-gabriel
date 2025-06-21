@@ -126,7 +126,7 @@ function App() {
                 <span className="text-green-700">Desenvolvedor</span> Front-end
               </p>
               <div className="flex justify-center">
-                <img src={img_me} alt="me" className="w-full max-w-[500px] h-[500px] rounded-full" />
+                <img src={img_me} alt="me" className="w-full max-w-[500px] h-[500px] rounded-full object-cover" />
               </div>
             </div>
 
